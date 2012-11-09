@@ -1,0 +1,1 @@
+This Arduino library gives you a general idea of approximately how much stack space is dynamically consumed by a Sketch at runtime. To use it, simply include the header and call the StackCount() function to get an estimate of how much stack space "free" at any time. A utility macro is provided to print the Stack Space to the Serial port `PRINT_STACK_SPACE();`
